@@ -12,97 +12,97 @@ write-your-name
 
 fill-in-your-answer
 
-# Show and tell (10 points)
+# Show and tell (4 points)
 
 [title-of-the-article](http://link-to-an-interesting-data-visualization-about-politics)
 
-# API (I)
+# API (I) (4 points x 14 = 56 points)
 
 ## Checkpoints
 
-### Checkpoint 1 (5 points)
+### Checkpoint 1 (4 points)
 
 ![image](image.png?raw=true)
 
-### Checkpoint 2 (5 points)
+### Checkpoint 2 (4 points)
 
 ![image](image.png?raw=true)
 
-### Checkpoint 3 (5 points)
+### Checkpoint 3 (4 points)
 
 ![image](image.png?raw=true)
 
-### Checkpoint 4 (5 points)
+### Checkpoint 4 (4 points)
 
 ![image](image.png?raw=true)
 
-### Checkpoint 5 (5 points)
+### Checkpoint 5 (4 points)
 
 ![image](image.png?raw=true)
 
-### Checkpoint 6 (5 points)
+### Checkpoint 6 (4 points)
 
 ![image](image.png?raw=true)
 
-### Checkpoint 7 (5 points)
+### Checkpoint 7 (4 points)
 
 ![image](image.png?raw=true)
 
-### Checkpoint 8 (5 points)
+### Checkpoint 8 (4 points)
 
 ![image](image.png?raw=true)
 
 ## Challenges
 
-### 1 (5 points)
+### 1 (4 points)
 
 ![image](image.png?raw=true)
 
-### 2 (5 points)
+### 2 (4 points)
 
 ![image](image.png?raw=true)
 
-### 3 (5 points)
+### 3 (4 points)
 
 ![image](image.png?raw=true)
 
-### 4 (5 points)
+### 4 (4 points)
 
 ![image](image.png?raw=true)
 
-### 5 (5 points)
+### 5 (4 points)
 
 ![image](image.png?raw=true)
 
-### 6 (5 points)
+### 6 (4 points)
 
 ![image](image.png?raw=true)
 
 
 
-# Splunk (III)
+# Splunk (III) (4 points x 10 = 40 points)
 
 ## Challenge 1
 
-### Challenge 1-a (2 points)
+### Challenge 1-a (4 points)
 ```
 sourcetype=access_* [fill-in-the-rest]
 ```
 ![image](image.png?raw=true)
 
-### Challenge 1-b (2 points)
+### Challenge 1-b (4 points)
 ```
 sourcetype=access_* [fill-in-the-rest]
 ```
 ![image](image.png?raw=true)
 
-### Challenge 1-c (2 points)
+### Challenge 1-c (4 points)
 ```
 sourcetype=access_* [fill-in-the-rest]
 ```
 ![image](image.png?raw=true)
 
-### Challenge 1-d (2 points)
+### Challenge 1-d (4 points)
 ```
 sourcetype=access_* [fill-in-the-rest]
 ```
@@ -110,34 +110,34 @@ sourcetype=access_* [fill-in-the-rest]
 
 ## Challenge 2
 
-### Challenge 2-a (2 points)
+### Challenge 2-a (4 points)
 ![image](image.png?raw=true)
 
-### Challenge 2-b (2 points)
+### Challenge 2-b (4 points)
 ```
 sourcetype=access_* [fill-in-the-rest]
 ```
 ![image](image.png?raw=true)
 
-### Challenge 2-c (2 points)
+### Challenge 2-c (4 points)
 ```
 sourcetype=access_* [fill-in-the-rest]
 ```
 ![image](image.png?raw=true)
 
-### Challenge 2-d (2 points)
+### Challenge 2-d (4 points)
 ```
 sourcetype=access_* [fill-in-the-rest]
 ```
 ![image](image.png?raw=true)
 
-### Challenge 2-e (2 points)
+### Challenge 2-e (4 points)
 ```
 sourcetype=access_* [fill-in-the-rest]
 ```
 ![image](image.png?raw=true)
 
-### Challenge 2-f (2 points)
+### Challenge 2-f (4 points)
 ```
 sourcetype=access_* [fill-in-the-rest]
 ```
