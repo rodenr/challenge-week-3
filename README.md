@@ -42,11 +42,11 @@ fill-in-your-answer
 
 ### Checkpoint 6 (4 points)
 
-![image](image.png?raw=true)
+![image](screenshots/check6.png)
 
 ### Checkpoint 7 (4 points)
 
-![image](image.png?raw=true)
+![image](screenshots/check7.png)
 
 ### Checkpoint 8 (4 points)
 
